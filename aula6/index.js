@@ -1,4 +1,4 @@
-let nome = 'aurelio' ; //string
+let nome = 'Antonio' ; //string
 
 console.log(nome, 'nasceu em 1991.');
 console.log('em 2000', nome, 'conheceu Gabi.');
